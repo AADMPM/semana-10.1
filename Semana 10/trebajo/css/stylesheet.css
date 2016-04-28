@@ -1,0 +1,35 @@
+img{height:100px;
+    width: 150px;
+    border:2px, solid black;}
+#Letras {
+	font-size: 3.5em;
+	color:white;
+	font-family: impact;
+}
+
+body{
+	background-color: black;
+}
+
+.containerA{border:2px solid black;
+           padding: 10px;
+           width: 200px;
+           float:left;
+           margin-left: 170px;
+           margin-top: 100px;
+           background-color: white;
+           }
+
+.containerB{border:2px solid black;
+           padding: 10px;
+           width: 200px;
+           float:right;
+           margin-top: 100px;
+           margin-right: 168px;
+           background-color: white;
+           }
+
+.container div img{
+	width: 100%;
+	border:2px,solid back;
+}
